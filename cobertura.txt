@@ -1,1 +1,20 @@
 SABORES:
+Brigadeiro
+
+Ganache de chocolate
+
+Doce de leite
+
+Marshmallow
+
+Chantilly
+
+Buttercream
+
+Frutas caramelizadas
+
+Leite condensado com coco
+
+Morango com geleia
+
+Chocolate branco derretido
